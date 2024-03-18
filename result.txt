@@ -1,0 +1,73 @@
+Image Retrieval
+Product ID: 2188
+Image URL: ['https://images-na.ssl-images-amazon.com/images/I/61PQto-LkbL._SY88.jpg']
+Review Text: My ES*335 fit loose and needed some padding added to keep the guitar snug, but if you don't mind doing that it's a good deal...
+Cosine Similarity of image: 0.999999999999984
+Cosine Similarity of text 0.9999999999999999
+composite score: 0.999999999999992
+Product ID: 530
+Image URL: ['https://images-na.ssl-images-amazon.com/images/I/51QAi5JTVjL._SY88.jpg', 'https://images-na.ssl-images-amazon.com/images/I/61New8ZCbuL._SY88.jpg', 'https://images-na.ssl-images-amazon.com/images/I/614OE1MwzJL._SY88.jpg', 'https://images-na.ssl-images-amazon.com/images/I/61rOod9CpSL._SY88.jpg', 'https://images-na.ssl-images-amazon.com/images/I/61CEpJV56pL._SY88.jpg']
+Review Text: I originally installed these on my semi-hollow body Gretch D6128 Thunderbass in an attempt to cut down on the string and fret noise I was getting with conventional strings.
+
+These not only reduced those issues considerably, the tone is fantastic!  I have been using these on the Gretch now for over 18 months and have nothing but praise for these strings!  The red color also adds a very unique look to the instrument and I am always getting compliments on the look!
+
+In addition to my D6128, I have also installed a set of these on my Candy Apple Red Fender Jaguar short scale bass with equally impressive results.
+
+The string itself is the time tested DR Sunbeam round core with the custom micro-coating applied.  The same great tone you get from the Sunbeam string with the added benefit of reduced string and fret noise.
+
+I can't recommend these strings highly enough for anyone looking for a quality coated string.
+
+(Be sure to check out the photos I posted of my two guitars running Red Devils!)
+Cosine Similarity of image: 0.5879573997246447
+Cosine Similarity of text 0.019645139296868074
+composite score: 0.30380126951075637
+Product ID: 151
+Image URL: ['https://images-na.ssl-images-amazon.com/images/I/51N6VYcTMEL._SY88.jpg']
+Review Text: Adding some twang to my Jim Dandy campfire guitar.
+Cosine Similarity of image: 0.543201197075953
+Cosine Similarity of text 0.07586263587975502
+composite score: 0.30953191647785405
+
+Text Retrieval
+Product ID: 2188
+Image URL: ['https://images-na.ssl-images-amazon.com/images/I/61PQto-LkbL._SY88.jpg']
+Review Text: My ES*335 fit loose and needed some padding added to keep the guitar snug, but if you don't mind doing that it's a good deal...
+Cosine Similarity of text: 0.9999999999999999
+Cosine Similarity of Image 1.0000001
+composite score: 1.0000000596046448
+Product ID: 3476
+Image URL: ['https://images-na.ssl-images-amazon.com/images/I/71mjbRQrc3L._SY88.jpg', 'https://images-na.ssl-images-amazon.com/images/I/81m0N5MamPL._SY88.jpg']
+Review Text: The bag is snug, but works well and has excellent padding for transportation.
+Cosine Similarity of text: 0.24849687196178194
+Cosine Similarity of Image 0.34312245
+composite score: 0.2958096622296321
+Product ID: 1529
+Image URL: ['https://images-na.ssl-images-amazon.com/images/I/81SaYA3ifDL._SY88.jpg', 'https://images-na.ssl-images-amazon.com/images/I/81RQVP-LTdL._SY88.jpg', 'https://images-na.ssl-images-amazon.com/images/I/81kPR3PaDiL._SY88.jpg', 'https://images-na.ssl-images-amazon.com/images/I/71tTR93txyL._SY88.jpg', 'https://images-na.ssl-images-amazon.com/images/I/81wh7ILuU6L._SY88.jpg', 'https://images-na.ssl-images-amazon.com/images/I/81bB+H83Q6L._SY88.jpg', 'https://images-na.ssl-images-amazon.com/images/I/81P4qNNQzNL._SY88.jpg', 'https://images-na.ssl-images-amazon.com/images/I/71vMUb-RWML._SY88.jpg', 'https://images-na.ssl-images-amazon.com/images/I/81MtjE36tIL._SY88.jpg', 'https://images-na.ssl-images-amazon.com/images/I/810uVHygVZL._SY88.jpg', 'https://images-na.ssl-images-amazon.com/images/I/81-ZchVd-NL._SY88.jpg', 'https://images-na.ssl-images-amazon.com/images/I/71TsAsxwFQL._SY88.jpg', 'https://images-na.ssl-images-amazon.com/images/I/81mtkF5kg+L._SY88.jpg', 'https://images-na.ssl-images-amazon.com/images/I/91kFHyEQuDL._SY88.jpg', 'https://images-na.ssl-images-amazon.com/images/I/91AR-6y5lHL._SY88.jpg', 'https://images-na.ssl-images-amazon.com/images/I/71Aq-4-0jAL._SY88.jpg', 'https://images-na.ssl-images-amazon.com/images/I/81u8ktsxknL._SY88.jpg']
+Review Text: This is a wonderful gig bag! I've included pictures of the more popular styles of guitar so you can see how well they fit. The purple Les Paul style fits snug length wise with the extra cushion pads, and fits snug side to side. The black Stratocaster style is ALMOST to long, but still fits fine. The grey SG style is a small guitar, so there is extra room top to bottom and side to side, but with the neck strap, it doesn't slide around too much, and I would still feel comfortable using this bag with the SG. The padding is aproximently an inch think all around and top and bottom, and the zippers are of good quality.
+Cosine Similarity of text: 0.1455791373166656
+Cosine Similarity of Image 0.42087278
+composite score: 0.2832259575085449
+
+Combined Retrieval
+Product ID: 2188
+Image URL: ['https://images-na.ssl-images-amazon.com/images/I/61PQto-LkbL._SY88.jpg']
+Review Text: My ES*335 fit loose and needed some padding added to keep the guitar snug, but if you don't mind doing that it's a good deal...
+composite score: 1.0000000596046448
+Product ID: 151
+Image URL: ['https://images-na.ssl-images-amazon.com/images/I/51N6VYcTMEL._SY88.jpg']
+Review Text: Adding some twang to my Jim Dandy campfire guitar.
+composite score: 0.30953191647785405
+Product ID: 530
+Image URL: ['https://images-na.ssl-images-amazon.com/images/I/51QAi5JTVjL._SY88.jpg', 'https://images-na.ssl-images-amazon.com/images/I/61New8ZCbuL._SY88.jpg', 'https://images-na.ssl-images-amazon.com/images/I/614OE1MwzJL._SY88.jpg', 'https://images-na.ssl-images-amazon.com/images/I/61rOod9CpSL._SY88.jpg', 'https://images-na.ssl-images-amazon.com/images/I/61CEpJV56pL._SY88.jpg']
+Review Text: I originally installed these on my semi-hollow body Gretch D6128 Thunderbass in an attempt to cut down on the string and fret noise I was getting with conventional strings.
+
+These not only reduced those issues considerably, the tone is fantastic!  I have been using these on the Gretch now for over 18 months and have nothing but praise for these strings!  The red color also adds a very unique look to the instrument and I am always getting compliments on the look!
+
+In addition to my D6128, I have also installed a set of these on my Candy Apple Red Fender Jaguar short scale bass with equally impressive results.
+
+The string itself is the time tested DR Sunbeam round core with the custom micro-coating applied.  The same great tone you get from the Sunbeam string with the added benefit of reduced string and fret noise.
+
+I can't recommend these strings highly enough for anyone looking for a quality coated string.
+
+(Be sure to check out the photos I posted of my two guitars running Red Devils!)
+composite score: 0.30380126951075637
